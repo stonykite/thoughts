@@ -1,0 +1,5 @@
+baseURL = "https://stonykite.github.io/"
+languageCode = "en-us"
+title = "Stony Kite - Some thoughts"
+publishDir = "docs"
+
