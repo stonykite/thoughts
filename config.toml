@@ -1,4 +1,4 @@
-baseURL = "https://stonykite.github.io/"
+baseURL = "https://stonykite.github.io/thoughts/"
 languageCode = "en-us"
 title = "Stony Kite - Some thoughts"
 publishDir = "docs"

@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Stony Kite - Some thoughts</title>
-    <link>https://stonykite.github.io/</link>
+    <link>https://stonykite.github.io/thoughts/</link>
     <description>Recent content on stonykite.github.io</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 26 Jul 2020 17:29:18 -0700</lastBuildDate>
     
-    <atom:link href="https://stonykite.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://stonykite.github.io/thoughts/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Hello World</title>
-      <link>https://stonykite.github.io/post/hello-world/</link>
+      <link>https://stonykite.github.io/thoughts/post/hello-world/</link>
       <pubDate>Sun, 26 Jul 2020 17:29:18 -0700</pubDate>
       
-      <guid>https://stonykite.github.io/post/hello-world/</guid>
+      <guid>https://stonykite.github.io/thoughts/post/hello-world/</guid>
       <description>
       
       Hello world!
